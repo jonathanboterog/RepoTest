@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileTest</string>
+    <string name="content_description">image</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="post">Posts</string>
+    <string name="all">ALL</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="loading_error">Error loading information</string>
+    <string name="try_again">Try Again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="comments">COMMENTS</string>
+    <string name="post_removed">Post removed!</string>
+    <string name="posts_removed">All Post removed!</string>
+
+</resources>
